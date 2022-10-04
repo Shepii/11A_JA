@@ -1,0 +1,16 @@
+E:\Juhász Ákos\C#\11A_JA\11A_JA\bin\Debug\net5.0\11A_JA.exe
+E:\Juhász Ákos\C#\11A_JA\11A_JA\bin\Debug\net5.0\11A_JA.deps.json
+E:\Juhász Ákos\C#\11A_JA\11A_JA\bin\Debug\net5.0\11A_JA.runtimeconfig.json
+E:\Juhász Ákos\C#\11A_JA\11A_JA\bin\Debug\net5.0\11A_JA.runtimeconfig.dev.json
+E:\Juhász Ákos\C#\11A_JA\11A_JA\bin\Debug\net5.0\11A_JA.dll
+E:\Juhász Ákos\C#\11A_JA\11A_JA\bin\Debug\net5.0\ref\11A_JA.dll
+E:\Juhász Ákos\C#\11A_JA\11A_JA\bin\Debug\net5.0\11A_JA.pdb
+E:\Juhász Ákos\C#\11A_JA\11A_JA\obj\Debug\net5.0\11A_JA.csproj.AssemblyReference.cache
+E:\Juhász Ákos\C#\11A_JA\11A_JA\obj\Debug\net5.0\11A_JA.GeneratedMSBuildEditorConfig.editorconfig
+E:\Juhász Ákos\C#\11A_JA\11A_JA\obj\Debug\net5.0\11A_JA.AssemblyInfoInputs.cache
+E:\Juhász Ákos\C#\11A_JA\11A_JA\obj\Debug\net5.0\11A_JA.AssemblyInfo.cs
+E:\Juhász Ákos\C#\11A_JA\11A_JA\obj\Debug\net5.0\11A_JA.csproj.CoreCompileInputs.cache
+E:\Juhász Ákos\C#\11A_JA\11A_JA\obj\Debug\net5.0\11A_JA.dll
+E:\Juhász Ákos\C#\11A_JA\11A_JA\obj\Debug\net5.0\ref\11A_JA.dll
+E:\Juhász Ákos\C#\11A_JA\11A_JA\obj\Debug\net5.0\11A_JA.pdb
+E:\Juhász Ákos\C#\11A_JA\11A_JA\obj\Debug\net5.0\11A_JA.genruntimeconfig.cache
